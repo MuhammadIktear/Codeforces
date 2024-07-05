@@ -1,0 +1,1 @@
+{"name":"Local: maxSubArry","url":"d:\\codeforces\\maxSubArry.cpp","tests":[{"id":1714823593939,"input":"9\n1 2 7 -4 3 2 -10 9 1","output":"11\n1 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\maxSubArry.cpp","group":"local","local":true}
